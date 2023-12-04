@@ -1,0 +1,4 @@
+target Setup() {
+  var sb3 = inload.file(../scratchfiles/sb3/Sliders.sb3);
+  pack(sb3, .rgl);
+}
